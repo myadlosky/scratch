@@ -1,3 +1,3 @@
-# Train file creation
+# Training file creation
 
 This is just a *test*
